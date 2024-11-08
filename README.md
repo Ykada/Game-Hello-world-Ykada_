@@ -11,3 +11,12 @@ The most thrilling part? There’s no going back. Once you’re up, you can’t 
 As the game progresses, you learn that it’s not just about the top. It’s about each step, each jump, each moment of doubt that you overcome. You begin to understand that the true essence of *Only Up* isn’t about the fall, but about the courage to rise again, higher than before.
 
 And as you reach the top, you realize: there’s always another peak waiting. In *Only Up*, you don’t just climb to the top—you climb to become something greater than you were before, one jump at a time.
+
+Update log: 8-11-2024
+
+Feat: parcoor
+Feat: Mister Beast
+Feat: Movement
+Feat: SkyBox
+Feat: Hitboxes
+Chore: Removed the cat
