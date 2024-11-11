@@ -1,4 +1,4 @@
-**Title: Only Up**
+**Title: Only Down**
 
 In the world of *Only Up*, the sky is not the limit—it's the goal. It's a game that draws you in with its simple premise, yet challenges you in ways you never expected. A virtual landscape of towering platforms, narrow ledges, and dizzying heights stretches before you. The mission is clear: climb higher, further, and faster than anyone else. But there's a catch: one misstep, one wrong move, and you fall. 
 
